@@ -1,2 +1,1 @@
-```SOURCE KODE NGAB!!``` 
-* [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
+* SOURCE KODE [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
